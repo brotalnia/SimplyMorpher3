@@ -1,0 +1,13 @@
+E:\WoW Files\Model Editing\wotlk\Simply Morpher\Simply Morpher 2 GreyMagic Source\simply morpher 3\bin\x86\Release\SimplyMorpher3.exe.config
+E:\WoW Files\Model Editing\wotlk\Simply Morpher\Simply Morpher 2 GreyMagic Source\simply morpher 3\bin\x86\Release\SimplyMorpher3.exe
+E:\WoW Files\Model Editing\wotlk\Simply Morpher\Simply Morpher 2 GreyMagic Source\simply morpher 3\bin\x86\Release\SimplyMorpher3.pdb
+E:\WoW Files\Model Editing\wotlk\Simply Morpher\Simply Morpher 2 GreyMagic Source\simply morpher 3\bin\x86\Release\fasmdll_managed.dll
+E:\WoW Files\Model Editing\wotlk\Simply Morpher\Simply Morpher 2 GreyMagic Source\simply morpher 3\bin\x86\Release\GreyMagic.dll
+E:\WoW Files\Model Editing\wotlk\Simply Morpher\Simply Morpher 2 GreyMagic Source\simply morpher 3\obj\x86\Release\simply morpher 3.csprojResolveAssemblyReference.cache
+E:\WoW Files\Model Editing\wotlk\Simply Morpher\Simply Morpher 2 GreyMagic Source\simply morpher 3\obj\x86\Release\simply morpher 3.csproj.GenerateResource.Cache
+E:\WoW Files\Model Editing\wotlk\Simply Morpher\Simply Morpher 2 GreyMagic Source\simply morpher 3\obj\x86\Release\SimplyMorpher3.exe
+E:\WoW Files\Model Editing\wotlk\Simply Morpher\Simply Morpher 2 GreyMagic Source\simply morpher 3\obj\x86\Release\SimplyMorpher3.pdb
+E:\WoW Files\Model Editing\wotlk\Simply Morpher\Simply Morpher 2 GreyMagic Source\simply morpher 3\obj\x86\Release\SimplyMorpher.Form1.resources
+E:\WoW Files\Model Editing\wotlk\Simply Morpher\Simply Morpher 2 GreyMagic Source\simply morpher 3\obj\x86\Release\SimplyMorpher.Presets.resources
+E:\WoW Files\Model Editing\wotlk\Simply Morpher\Simply Morpher 2 GreyMagic Source\simply morpher 3\obj\x86\Release\SimplyMorpher.Properties.Resources.resources
+E:\WoW Files\Model Editing\wotlk\Simply Morpher\Simply Morpher 2 GreyMagic Source\simply morpher 3\obj\x86\Release\SimplyMorpher.Search.resources
