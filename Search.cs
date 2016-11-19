@@ -22,7 +22,7 @@ namespace SimplyMorpher
         private void Search_ResizeEnd(object sender, EventArgs e)
         {
             txtName.Size = new Size(this.Size.Width - btnSearch.Size.Width - 30, txtName.Size.Height);
-            btnSearch.Location = new Point(this.Size.Width - btnSearch.Size.Width - 10, btnSearch.Location.Y);
+            btnSearch.Location = new Point(this.Size.Width - btnSearch.Size.Width - 15, btnSearch.Location.Y);
             listView1.Size = new Size(listView1.Size.Width, this.Size.Height - 65);
             listView1.Columns[1].Width = listView1.ClientSize.Width - listView1.Columns[0].Width;
         }
@@ -30,7 +30,7 @@ namespace SimplyMorpher
         private void Search_Load(object sender, EventArgs e)
         {
             txtName.Size = new Size(this.Size.Width - btnSearch.Size.Width - 30, txtName.Size.Height);
-            btnSearch.Location = new Point(this.Size.Width - btnSearch.Size.Width - 10, btnSearch.Location.Y);
+            btnSearch.Location = new Point(this.Size.Width - btnSearch.Size.Width - 15, btnSearch.Location.Y);
             listView1.Size = new Size(listView1.Size.Width, this.Size.Height - 65);
             listView1.Columns[1].Width = listView1.ClientSize.Width - listView1.Columns[0].Width;
             listView1.Activation = ItemActivation.TwoClick;
