@@ -82,14 +82,6 @@
     <ApplicationIcon>simply morpher icon.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="fasmdll_managed, Version=1.0.6134.26305, Culture=neutral, processorArchitecture=x86">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\GreyMagic Release\Release\fasmdll_managed.dll</HintPath>
-    </Reference>
-    <Reference Include="GreyMagic, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\GreyMagic Release\Release\GreyMagic.dll</HintPath>
-    </Reference>
     <Reference Include="System.Data" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System" />
@@ -168,6 +160,15 @@
     <None Include="Resources\rightarrow.png" />
     <Content Include="simply morpher icon.ico" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="fasmdll_managed\fasmdll_managed.vcxproj">
+      <Project>{4756cf18-2091-446f-a79d-9e521611deb5}</Project>
+      <Name>fasmdll_managed</Name>
+    </ProjectReference>
+    <ProjectReference Include="GreyMagic\GreyMagic.csproj">
+      <Project>{29bee34e-8d6a-47bf-96fa-aba46f6e9b66}</Project>
+      <Name>GreyMagic</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
